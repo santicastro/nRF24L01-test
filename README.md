@@ -1,6 +1,8 @@
 nRF24L01-test
 =============
 
+NOT WORKING!!!
+
 Basic echo server and client to test nRF24L01 operation
 
 Interesting information of the choosen board (including pinout): http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
